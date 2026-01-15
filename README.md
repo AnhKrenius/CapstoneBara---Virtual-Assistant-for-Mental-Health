@@ -85,22 +85,22 @@ Watch full demo video of CapstoneBara:
 <div align="center">
 
 #### 🏠 Trang chủ & Đăng nhập
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](screenshots/landing-page.jpg)
 *Landing Page ReactJS*
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.jpg)
 *Login Page with OAuth 2.0*
 
 #### 💬 AI Chatbot Interface
-![Chatbot](screenshots/chatbot.png)
+![Chatbot](screenshots/chatbot.jpg)
 *Chatbot interface with AI supports*
 
 #### 📊 Health Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 *Bảng điều khiển theo dõi sức khỏe tâm thần*
 
 #### ⚙️ Settings & Profile
-![Settings](screenshots/settings.png)
+![Settings](screenshots/settings.jpg)
 *Setting & Users Profile*
 
 </div>
