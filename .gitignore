@@ -1,0 +1,28 @@
+# Portfolio Repository .gitignore
+# This repository is for demonstration purposes only
+# Source code is excluded for security and intellectual property protection
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Log files
+*.log
+
+# Note: All files in this portfolio directory are allowed
+# This .gitignore only excludes system/temporary files
+# Source code is not included in this repository by design
