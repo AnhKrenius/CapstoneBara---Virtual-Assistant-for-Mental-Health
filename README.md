@@ -68,17 +68,42 @@ The platform consists of five main layers:
 
 ## 📊 Screenshots & Demo
 
-> **Note**: Live demo and screenshots can be added here. For security reasons, source code is not included in this repository.
+### 🎥 Demo Video
 
-## 🗓 Project Timeline
+Watch full demo video of CapstoneBara:
 
-| Phase       | Duration | Activities                          |
-| ----------- | -------- | ----------------------------------- |
-| Planning    | 2 weeks  | Requirements, wireframes, Jira      |
-| Development | 10 weeks | Full-stack build, AI chatbot        |
-| Testing     | 4 weeks  | Unit, integration, and security     |
-| Deployment  | 1 week   | Cloud setup and onboarding          |
-| Maintenance | Ongoing  | Bug fixes, patches, feature updates |
+<div align="center">
+
+[![CapstoneBara Demo Video](https://img.shields.io/badge/▶️-Watch%20Demo%20Video%20on%20Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1kJwNxbHmtqWZy2zfDVQ3ZGP19z88Qd0k/view)
+
+**📹 [Xem Video Demo trên Google Drive](https://drive.google.com/file/d/1kJwNxbHmtqWZy2zfDVQ3ZGP19z88Qd0k/view)**
+
+</div>
+
+### 📸 Screenshots
+
+<div align="center">
+
+#### 🏠 Trang chủ & Đăng nhập
+![Landing Page](screenshots/landing-page.png)
+*Landing Page ReactJS*
+
+![Login Page](screenshots/login.png)
+*Login Page with OAuth 2.0*
+
+#### 💬 AI Chatbot Interface
+![Chatbot](screenshots/chatbot.png)
+*Chatbot interface with AI supports*
+
+#### 📊 Health Dashboard
+![Dashboard](screenshots/dashboard.png)
+*Bảng điều khiển theo dõi sức khỏe tâm thần*
+
+#### ⚙️ Settings & Profile
+![Settings](screenshots/settings.png)
+*Setting & Users Profile*
+
+</div>
 
 ## 👥 Contributors
 
@@ -111,9 +136,6 @@ This is a portfolio demonstration. Source code is proprietary and not included i
 
 > **CapstoneBara** is a proactive and scalable solution to the growing demand for digital mental health care. With a secure, evidence-based, and user-focused design, it empowers both individuals and clinicians to manage mental health in real time — with empathy and insight.
 
-## 📧 Contact
-
-For inquiries about this project, please contact the development team.
 
 ---
 
